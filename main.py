@@ -64,3 +64,4 @@ class Menu :
 
 adm=Menu()
 adm.exibirMenu()
+print(Diretor.mro())
